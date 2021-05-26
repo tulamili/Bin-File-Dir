@@ -1,6 +1,6 @@
 package Bin::File::Dir ; 
 
-our $VERSION = "0.201" ; 
+our $VERSION = "0.202" ; 
 our $DATE = "2021-05-26T12:45+0900" ; 
 
 =encoding utf8
