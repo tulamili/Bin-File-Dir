@@ -5,6 +5,7 @@ blib/script/dirdim
 blib/script/dirhier
 blib/script/fileday
 blib/script/samesize
+blib/script/updir
 Changes
 INSTALL
 lib/Bin/File/Dir.pm
